@@ -4,10 +4,11 @@ Moduware Prototype App built with React Native to test required functions and fe
 
 ## Requirements
 
-* Node.js version 14.16.1 or above.
+* Node.js version 12.22.1 or above.
 * Android Emulator
 * iOS Simulator
 * Xcode version 12.4 or above.
+* CocoaPods version 1.10.1
 
 ## Installation
 
